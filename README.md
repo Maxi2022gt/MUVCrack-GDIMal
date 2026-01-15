@@ -7,4 +7,4 @@ Note: You need VC++ Redist 2015 to run this.
 
 I know that some people will skid some effects after I release MUVCrack’s source code to put in their malwares, and even if I complain about it, nothing will change.
 
-So for that reason I added a MIT license. In other words, if you use/modify a part of my code, you need to ask me permission and release the source code!
+So for that reason I added a MIT license. In other words, if you use/modify a part of my code, you need to release the source code, and include a copy of the LICENSE file with your program.
